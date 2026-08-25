@@ -1,4 +1,7 @@
 learning git bash first day
+git config --global user.name "git hub username"
+git config --global user.email "git mail"
+git remote add origin "link taken from githhub"
 ls = is used for listing all the file name .
 nano = is used to create a file or can use a created file .
 git add  "use the name of the file " = is used to change from untracked files to tracked file .
