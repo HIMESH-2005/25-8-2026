@@ -9,3 +9,6 @@ git commit -m "can write anything here " = is used for commiting stored chnages 
 git push = is used to push the file into the  git hub .
 git pull = is used to pull the changes made in the from git hub . 
 git add . = is used to change all files from untracked to tracked 
+ 
+
+i have created a branch master2 
