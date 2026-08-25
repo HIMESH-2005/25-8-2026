@@ -2,3 +2,4 @@ learning git bash first day
 i am studing git hub 
 i have pushed the file to git hub 
 i am pushing the file into the git hub 
+4
