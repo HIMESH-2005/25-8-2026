@@ -1,4 +1,7 @@
-learning git bash first day 
-i am studing git hub 
-i have pushed the file to git hub 
-i am pushing the file into the git hub 
+learning git bash first day
+ls = is used for listing all the file name .
+nano = is used to create a file or can use a created file .
+git add = is used to change from untracked files to tracked file .
+git commit -m "can write anything here " = is used for commiting stored chnages .
+git push = is used to push the file into the  git hub .
+git pull = is used to pull the changes made in the from git hub . 
