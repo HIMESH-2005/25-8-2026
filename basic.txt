@@ -15,3 +15,11 @@ git switch write the branch name u want to switch to  = used to switch to the br
 git commit -m "give any name" = it used to see the store the chnages made in the switched branch .
 git switch to main branch
 git merge write the branch name u re merging it to
+
+
+
+
+
+hello
+
+
