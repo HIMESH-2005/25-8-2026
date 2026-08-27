@@ -9,17 +9,17 @@ git commit -m "can write anything here " = is used for commiting stored chnages 
 git push = is used to push the file into the  git hub .
 git pull = is used to pull the changes made in the from git hub . 
 git add . = is used to change all files from untracked to tracked .
+
+
+
+TO CREATE A BRANCH NAME AND MERGE THEM :
+
 git branch write ur branch name = it used to create a new branch .
 git branch -a = it used to list all the branch u create .
 git switch write the branch name u want to switch to  = used to switch to the branch u want to .
 git commit -m "give any name" = it used to see the store the chnages made in the switched branch .
-git switch to main branch
-git merge write the branch name u re merging it to
+git switch to main branch .
+git merge write the branch name u re merging it with the branch .
 
 
-
-
-
-hello
-
-
+1234567890
