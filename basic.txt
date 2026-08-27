@@ -21,5 +21,20 @@ git commit -m "give any name" = it used to see the store the chnages made in the
 git switch to main branch .
 git merge write the branch name u re merging it with the branch .
 
+MERGE CONFLICT :
+STEP 1 : go to child branch and make changes and in the file 
+git swtich to sub branch 
+changes in the file 
+git add file name 
+git commit -m "  "
+  
+STEP 2 : GO TO THE MAIN BRANCH OR THE MASTER BRANCH 
+git swtich to the main 
+changes in the file 
+git add file name 
+git commit -m "  "
+then 
+merge the main file with the sub branch 
 
-1234
+output would be :
+
