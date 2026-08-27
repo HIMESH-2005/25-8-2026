@@ -21,3 +21,8 @@ git commit -m "give any name" = it used to see the store the chnages made in the
 git switch to main branch .
 git merge write the branch name u re merging it with the branch .
 
+
+
+
+1234567890
+
