@@ -46,7 +46,9 @@ abcdefgh
 
 so the commit made in the both the file then merge u wld get a output merge conflict 
 
-
-
-iam making changes in it 
+TO REVERT A COMMIT WE HAVE TO  
+STEP 1 : git log --oneline 
+STEP 2 : then copy the commit id   
+STEP 3 : git revert paste the copied commit id here 
+STEP 4 : we have to press W + Q + enter to exit the revert page 
 
