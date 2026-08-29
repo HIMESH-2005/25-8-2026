@@ -38,4 +38,15 @@ merge the main file with the sub branch
 
 output would be :
 
+<<<<<<< HEAD
 abcdefgh
+=======
+1234567890
+>>>>>>> main
+
+so the commit made in the both the file then merge u wld get a output merge conflict 
+
+
+
+iam making changes in it 
+
