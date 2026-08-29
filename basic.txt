@@ -45,7 +45,8 @@ abcdefgh
 >>>>>>> main
 
 so the commit made in the both the file then merge u wld get a output merge conflict 
-123456
+
+
 
 iam making changes in it 
 
